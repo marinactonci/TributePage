@@ -1,0 +1,37 @@
+header {
+    text-align: center;
+    padding: 2rem 0px;
+    background-color: #999999;
+}
+
+h3 {
+    text-align: center;
+}
+
+#img-div{
+    text-align: center;
+    width: 75%;
+    display: block;
+    margin: auto;
+    padding: 3rem 0px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+.tribute {
+    background-color: #999999;
+}
+
+#tribute-info{
+    width: 40%;
+    margin: auto;
+    padding: 2rem 0px;
+}
+
+#tribute-link {
+    text-align: center;
+    padding-bottom: 2rem;
+}
