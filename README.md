@@ -1,3 +1,3 @@
 # TributePage
 
-(https://tribute-page-tm.netlify.app/)
+https://tribute-page-tm.netlify.app/
